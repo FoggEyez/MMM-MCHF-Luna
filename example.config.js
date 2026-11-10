@@ -1,5 +1,5 @@
 module.exports = {
-  module: "MMM-MischiefMoon",
+  module: "MMM-MCHF-Luna",
   position: "middle_center",
   config: {}
 };

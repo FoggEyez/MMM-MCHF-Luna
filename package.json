@@ -1,6 +1,6 @@
 {
-  "name": "mmm-mischiefmoon",
-  "version": "0.1.0",
+  "name": "mmm-mchf-luna",
+  "version": "0.2.0",
   "description": "A NASA-textured Moon with continuous local phase lighting.",
   "license": "MIT",
   "author": "FoggEyez",
@@ -14,12 +14,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/FoggEyez/MMM-MischiefMoon.git"
+    "url": "https://github.com/FoggEyez/MMM-MCHF-Luna.git"
   },
   "bugs": {
-    "url": "https://github.com/FoggEyez/MMM-MischiefMoon/issues"
+    "url": "https://github.com/FoggEyez/MMM-MCHF-Luna/issues"
   },
-  "homepage": "https://github.com/FoggEyez/MMM-MischiefMoon#readme",
+  "homepage": "https://github.com/FoggEyez/MMM-MCHF-Luna#readme",
   "engines": {
     "node": ">=22"
   },

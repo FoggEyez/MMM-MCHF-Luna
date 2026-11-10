@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "module": "MMM-MischiefMoon",
-  "title": "Mischief Moon",
+  "module": "MMM-MCHF-Luna",
+  "title": "MCHF-Luna",
   "recommendedPosition": "middle_center",
   "singleInstance": true,
   "requires": [],

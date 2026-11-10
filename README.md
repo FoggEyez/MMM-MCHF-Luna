@@ -1,10 +1,10 @@
-# MMM-MischiefMoon
+# MMM-MCHF-Luna
 
 A NASA-textured Moon with continuous local phase lighting.
 
 Part of [Mirror Mischief](https://github.com/FoggEyez/Mirror-Mischief). Install and configure manually, or use the optional companion.
 
-![MMM-MischiefMoon rendered example](docs/screenshot.png)
+![MMM-MCHF-Luna rendered example](docs/screenshot.png)
 
 Screenshot uses the actual module renderer in an isolated preview. Network/health/economy readings are labelled synthetic demonstration data, not live readings.
 
@@ -14,7 +14,7 @@ Requires a working MagicMirror² installation, Node.js 22 or newer, and a curren
 
 ```sh
 cd ~/MagicMirror/modules
-git clone https://github.com/FoggEyez/MMM-MischiefMoon.git
+git clone https://github.com/FoggEyez/MMM-MCHF-Luna.git
 ```
 
 No npm runtime dependencies or install scripts. No extra services are required.
@@ -23,7 +23,7 @@ Add this to the modules array in config/config.js, then restart MagicMirror²:
 
 ```js
 {
-  module: "MMM-MischiefMoon",
+  module: "MMM-MCHF-Luna",
   position: "middle_center",
   config: {}
 }

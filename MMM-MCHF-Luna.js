@@ -1,9 +1,9 @@
 /* global Module, SkyMath, MischiefMoon */
-Module.register('MMM-MischiefMoon',{
+Module.register('MMM-MCHF-Luna',{
  requiresVersion:'2.38.0',
  defaults:{diameter:260,autoFit:true,brightness:100,earthshine:12,hemisphere:'north',showTitle:false,showPhase:true,showIllumination:true},
  getScripts(){return [this.file('vendor/ephemeris.js'),this.file('vendor/sky-math.js'),this.file('moon-renderer.js')];},
- getStyles(){return [this.file('MMM-MischiefMoon.css')];},
+ getStyles(){return [this.file('mischief-surfaces.css'),this.file('MMM-MCHF-Luna.css')];},
  start(){
   this.paused=false;this.timer=null;
   this.visibility=()=>this.schedule();document.addEventListener('visibilitychange',this.visibility);window.addEventListener('resize',this.visibility);
