@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "module": "MMM-MischiefMoon",
+  "title": "Mischief Moon",
+  "recommendedPosition": "middle_center",
+  "singleInstance": true,
+  "requires": [],
+  "notes": "All supported settings are literal defaults in the module entry. No companion is required. This manifest documents the contract; current MMM-Config discovers defaults from JavaScript.",
+  "supportedSettings": [
+    "diameter",
+    "autoFit",
+    "brightness",
+    "earthshine",
+    "hemisphere",
+    "showTitle",
+    "showPhase",
+    "showIllumination"
+  ]
+}
